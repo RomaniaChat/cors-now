@@ -33,6 +33,8 @@
     "promisepipe": "^2.0.0",
     "snyk": "^1.29.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@architect/sandbox": "^3.4.1"
+  },
   "snyk": true
 }
